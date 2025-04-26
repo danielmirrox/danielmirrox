@@ -1,8 +1,41 @@
 ## Daniel Petrov (@danielmirrox)
 
-+ 🔭 I’m currently working on ...
-+ 🌱 I’m currently learning ...
-+ 📫 How to reach me: ...
+### About Me
+19 y.o., based in Moscow. Studying System and Software Engineering at RTU MIREA and focusing on backend and mobile development.
+### Languages I've worked with
+Java, C++, Python, Lua, Kotlin. Now learning SQL, Docker, and DevOps basics.
+
+
+### Some Of My Projects
++ [mood-journal-api](https://github.com/danielmirrox/mood-journal-api)
++ [mirea-schedule-weather](https://github.com/danielmirrox/mirea-schedule-weather)
+
+### Passionate about
+
++ Java backend systems.
+ 
++ Python scripting
+
++ Android development.
+
++ Lua scripting.
+
+
+
+ ### Learning
+
++ Microservices and API design.
+
++ DevOps practices for CI/CD pipelines and automation.
+
+
+
+ ### Contacts
+
++ Telegram: [@danieltgrm](https://t.me/danieltgrm)
+
++ GitHub Discussions or email: [ddaniel.petrov@yandex.ru](ddaniel.petrov@yandex.ru)
+
 
 <!--
 **danielmirrox/danielmirrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
