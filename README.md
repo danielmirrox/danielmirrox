@@ -8,7 +8,7 @@ Java, C++, Python, Lua, Kotlin. Now learning SQL, Docker, and DevOps basics.
 
 ### Some Of My Projects
 + [mood-journal-api](https://github.com/danielmirrox/mood-journal-api)
-+ [mirea-schedule-weather](https://github.com/danielmirrox/mirea-schedule-weather)
++ [vk-routine-bot](https://github.com/danielmirrox/vk-routine-bot)
 
 ### Passionate about
 
