@@ -9,6 +9,8 @@ Java, C++, Python, Lua, Kotlin. Now learning SQL, Docker, and DevOps basics.
 ### Some Of My Projects
 + [mood-journal-api](https://github.com/danielmirrox/mood-journal-api)
 + [vk-routine-bot](https://github.com/danielmirrox/vk-routine-bot)
++ [task-manager-json](https://github.com/danielmirrox/task-manager-json)
++ [currency-calculator](https://github.com/danielmirrox/currency-calculator)
 
 ### Passionate about
 
