@@ -1,7 +1,7 @@
 ## Daniel Petrov (@danielmirrox)
 
 ### About Me
-19 y.o., based in Moscow. Studying System and Software Engineering at RTU MIREA and focusing on backend and mobile development.
+20 y.o., based in Moscow. Studying System and Software Engineering at RTU MIREA and focusing on backend and mobile development.
 ### Languages I've worked with
 Java, C++, Python, Lua, and some Kotlin. Now learning SQL, Docker, and DevOps basics.
 
