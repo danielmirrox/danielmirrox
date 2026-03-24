@@ -33,7 +33,6 @@ Focused on **backend** and **mobile development**
 
 ### 💡 Some Of My Projects
 - **[skillhub](https://github.com/danielmirrox/skillhub)** — Hackathon matching platform with AI skill scoring and GitHub OAuth  
-  **Live demo:** [pump.hackaton.profcomff.com](https://pump.hackaton.profcomff.com/applications)
 - **[pg_case](https://github.com/danielmirrox/pg_case)** — Automated Yandex Classic+Neuro parser for product categories
 - **[mood-journal-api](https://github.com/danielmirrox/mood-journal-api)** — Simple mood journal REST API built with Spring Boot
 - **[vk-routine-bot](https://github.com/danielmirrox/vk-routine-bot)** — VK bot for schedules and weather forecast
