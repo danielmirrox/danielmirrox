@@ -1,56 +1,48 @@
-## Daniel Petrov (@danielmirrox)
+# Hi there 👋
 
-### About Me
-20 y.o., based in Moscow. Studying System and Software Engineering at RTU MIREA and focusing on backend and mobile development.
-### Languages I've worked with
-Java, C++, Python, Lua, and some Kotlin. Now learning SQL, Docker, and DevOps basics.
+**20 y.o. • Moscow • RTU MIREA**  
+🎓 Studying **System and Software Engineering**  
+Focused on **backend** and **mobile development**
 
+### 🛠️ Tech Stack
 
+<p align="left">
 
-### Some Of My Projects
-+ [mood-journal-api](https://github.com/danielmirrox/mood-journal-api)
-+ [vk-routine-bot](https://github.com/danielmirrox/vk-routine-bot)
-+ [task-manager-json](https://github.com/danielmirrox/task-manager-json)
-+ [currency-calculator](https://github.com/danielmirrox/currency-calculator)
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-### Passionate about
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
 
-+ Java backend systems.
- 
-+ Python scripting
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-+ Android development.
+</p>
 
-+ Lua scripting.
+### 💻 Currently Learning
+- **Kotlin** (deeper)  
+- **Apache Cassandra**  
+- Microservices & API design  
+- DevOps practices (CI/CD pipelines & automation)
 
+### 🎯 Passionate about
+- Java backend systems  
+- Python scripting  
+- Android development
 
+### 💡 Some Of My Projects
+- **[skillhub](https://github.com/danielmirrox/skillhub)** — Hackathon matching platform with AI skill scoring and GitHub OAuth  
+  **Live demo:** [pump.hackaton.profcomff.com](https://pump.hackaton.profcomff.com/applications)
+- **[pg_case](https://github.com/danielmirrox/pg_case)** — Automated Yandex Classic+Neuro parser for product categories
+- **[mood-journal-api](https://github.com/danielmirrox/mood-journal-api)** — Simple mood journal REST API built with Spring Boot
+- **[vk-routine-bot](https://github.com/danielmirrox/vk-routine-bot)** — VK bot for schedules and weather forecast
+- **[currency-calculator](https://github.com/danielmirrox/currency-calculator)** — Currency converter with exchange rate dynamics
+- **[task-manager-json](https://github.com/danielmirrox/task-manager-json)** — Basic console task manager with JSON storage
 
- ### Learning
-
-+ Microservices and API design.
-
-+ DevOps practices for CI/CD pipelines and automation.
-
-
-
- ### Contacts
-
-+ Telegram: [@danieltgrm](https://t.me/danieltgrm)
-
-+ GitHub Discussions or email: [ddaniel.petrov@yandex.ru](ddaniel.petrov@yandex.ru)
-
-
-<!--
-**danielmirrox/danielmirrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+📱 **Telegram**: [@danieltgrm](https://t.me/danieltgrm)  
+✉️ **Email**: [ddaniel.petrov@yandex.ru](mailto:ddaniel.petrov@yandex.ru)  
+💬 GitHub Discussions
