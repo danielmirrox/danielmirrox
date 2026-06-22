@@ -43,3 +43,6 @@ Focused on **backend** and **mobile development**
 📱 **Telegram**: [@danieltgrm](https://t.me/danieltgrm)  
 ✉️ **Email**: [ddaniel.petrov@yandex.ru](mailto:ddaniel.petrov@yandex.ru)  
 💬 GitHub Discussions
+
+### 🧠 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/oxxxyMIRROX?theme=dark&font=JetBrains%20Mono&ext=activity)
